@@ -1,0 +1,9 @@
+ticker,company,sector,pe_ratio,debt_to_equity,revenue_growth_pct,return_on_equity_pct,dividend_yield_pct
+AAPL,Apple Inc.,Technology,29.4,1.8,7.5,147.0,0.5
+MSFT,Microsoft Corp.,Technology,35.2,0.4,15.7,35.0,0.7
+NVDA,NVIDIA Corp.,Semiconductors,41.8,0.2,74.0,91.0,0.03
+AMZN,Amazon.com Inc.,Consumer Discretionary,43.0,0.6,11.0,22.0,0.0
+GOOGL,Alphabet Inc.,Communication Services,24.8,0.1,12.0,27.0,0.5
+JPM,JPMorgan Chase & Co.,Financials,12.5,1.1,8.0,16.0,2.2
+TSLA,Tesla Inc.,Consumer Discretionary,62.0,0.2,19.0,20.0,0.0
+KO,Coca-Cola Co.,Consumer Staples,24.2,1.6,4.0,40.0,3.0

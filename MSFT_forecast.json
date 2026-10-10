@@ -1,0 +1,14 @@
+{
+  "ticker": "MSFT",
+  "model": "LSTM",
+  "lookback_sessions": 60,
+  "training_rows": 566,
+  "test_rows": 157,
+  "test_mae": 53.223976135253906,
+  "test_rmse": 71.01435089111328,
+  "naive_previous_close_mae": 16.594337463378906,
+  "naive_previous_close_rmse": 20.833879470825195,
+  "last_observed_close": 1543.010009765625,
+  "next_session_forecast": 1434.427001953125,
+  "data_note": "Synthetic demo price history; forecast is educational only."
+}
